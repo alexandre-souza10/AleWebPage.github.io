@@ -10,7 +10,9 @@
 
 ## Project Description:
 - In this Project, a Website was developed, and its own unique Theme, using HTML, CSS, JavaScript, TypeScript, React.js, PHP and closing with WordPress. On the Website page we find a Website with a beautiful, responsive design, having both Front-End and Back-End properties, making it very dynamic, and ready for use by companies and customers; A very functional and practical website to use.
+  
 - Pojeto has the functionality of being an effective Website, with its own hand-developed theme, so that it is a website for different companies to use, having three pages, a Home, an about to place information, and a contact page, where we have real-time location, and a GPS.
+  
 - Below we have a short instructional video, where we show an example of how the Website and its own Theme works.
 
 <br></br>
