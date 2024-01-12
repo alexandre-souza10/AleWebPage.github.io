@@ -1,7 +1,8 @@
-<h1 align="center"> Clone Netflix - Front-End</h1>
+<h1 align="center"> AleWeb-Tema Wordpress</h1>
 
 ### Project Home Page:
-![Screenshot_1](https://github.com/alexandre-souza10/netflixclone.github.io/assets/74196527/6028fd68-aebc-41e8-b54f-6eb0b1557503)
+![aleweb site](https://github.com/alexandre-souza10/AleWebPage.github.io/assets/74196527/613360d4-3ec2-4663-95ff-b9d8de1e8231)
+
 
 ### Project access link : https://alexandre-souza10.github.io/netflixclones/
 
