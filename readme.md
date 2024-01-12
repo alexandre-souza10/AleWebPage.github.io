@@ -23,7 +23,7 @@ be a Front-End project only, but having its dynamics in the intro video of the p
 
 Video:
 
-
+https://github.com/alexandre-souza10/AleWebPage.github.io/assets/74196527/84ba5f31-88fc-45a4-bf1c-3234e0e11c63
 
 <br></br>
 
