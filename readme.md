@@ -33,7 +33,7 @@ https://github.com/alexandre-souza10/AleWebPage.github.io/assets/74196527/4a9101
 - HTML
 - CSS
 - SCSS
-- Java Script
+- JavaScript
 - React.js
 - JQuery.js
 - TypeScript
