@@ -1,4 +1,4 @@
-<h1 align="center"> AleWeb-Tema Site Wordpress</h1>
+<h1 align="center"> AleWeb Tema - Site Wordpress</h1>
 
 ### Project Home Page:
 ![aleweb site](https://github.com/alexandre-souza10/AleWebPage.github.io/assets/74196527/613360d4-3ec2-4663-95ff-b9d8de1e8231)
