@@ -4,7 +4,7 @@
 ![aleweb site](https://github.com/alexandre-souza10/AleWebPage.github.io/assets/74196527/613360d4-3ec2-4663-95ff-b9d8de1e8231)
 
 
-### Project access link : https://alexandre-souza10.github.io/netflixclones/
+### Project access link :
 
 <br></br>
 
@@ -23,7 +23,7 @@ be a Front-End project only, but having its dynamics in the intro video of the p
 
 Video:
 
-https://github.com/alexandre-souza10/netflixclone.github.io/assets/74196527/90cdd419-00fa-48a5-802d-2f03dca8fd73
+
 
 <br></br>
 
