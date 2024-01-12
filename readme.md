@@ -32,12 +32,15 @@ https://github.com/alexandre-souza10/AleWebPage.github.io/assets/74196527/4a9101
 ## Languages ​​and Tools used:
 - HTML
 - CSS
+- SCSS
 - Java Script
 - React.js
 - JQuery.js
+- TypeScript
 - PHP
 - WordPress
 - Banco de Dados My Sql
+- API KEY do Google
 - Visual Studio Code
 
 <br></br>
