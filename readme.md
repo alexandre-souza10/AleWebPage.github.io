@@ -32,8 +32,10 @@ Video:
 - CSS
 - Java Script
 - React.js
-- JQuery. js
-- Slick.min.js
+- JQuery.js
+- PHP
+- WordPress
+- Banco de Dados My Sql
 - Visual Studio Code
 
 <br></br>
