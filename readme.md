@@ -24,7 +24,7 @@ be a Front-End project only, but having its dynamics in the intro video of the p
 Video:
 
 
-https://github.com/alexandre-souza10/AleWebPage.github.io/assets/74196527/4a910153-49fc-4809-8fe5-708d6c60404a
+https://github.com/alexandre-souza10/AleWebPage.github.io/assets/74196527/76a64845-4be9-4915-8f04-cded8d0c9faf
 
 
 <br></br>
