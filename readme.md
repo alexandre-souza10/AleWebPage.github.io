@@ -9,15 +9,9 @@
 <br></br>
 
 ## Project Description:
-- In this Project, a Netflix Clone page was developed, a Front-End project, using HTML, CSS, Java Script and Jquery. On the page
-we found a more advanced design, very objective, and very functional for its purpose, containing a catalog of static films and series,
-and an introductory video, making the page dynamic at this stage.
-
-- The project has the functionality of having a catalog of static films and series , having an introductory video showing a series , its name ,
-and a brief dynamic description, with a design very close to netflix itself, with a very functional and interactive screen, even though most of it is static, for
-be a Front-End project only, but having its dynamics in the intro video of the page.
-
-- Below we have a small instructional video, where we show an example of how the Netflix Clone page works.
+- In this Project, a Website was developed, and its own unique Theme, using HTML, CSS, JavaScript, TypeScript, React.js, PHP and closing with WordPress. On the Website page we find a Website with a beautiful, responsive design, having both Front-End and Back-End properties, making it very dynamic, and ready for use by companies and customers; A very functional and practical website to use.
+- Pojeto has the functionality of being an effective Website, with its own hand-developed theme, so that it is a website for different companies to use, having three pages, a Home, an about to place information, and a contact page, where we have real-time location, and a GPS.
+- Below we have a short instructional video, where we show an example of how the Website and its own Theme works.
 
 <br></br>
 
